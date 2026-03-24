@@ -15,7 +15,8 @@ Real-time peer-to-peer file sharing app
 * LAN discovery
 * File transfer with progress tracking
 
-👉 https://github.com/NicknameAR/FILY
+👉 https://github.com/NicknameAR/p2p-file-drop
+
 
 ## 🧱 Tech Stack
 *Python
