@@ -25,7 +25,6 @@ Real-time peer-to-peer file sharing app
 * WebSockets
 * Docker
 * Wails
-*Typescript
 *Javascript
 *HTML/CSS
 
