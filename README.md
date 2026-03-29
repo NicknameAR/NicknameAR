@@ -32,15 +32,15 @@ Real-time peer-to-peer file sharing app
 
 
 ## 🧱 Tech Stack
-*Python
 * Go
 * React + TypeScript
 * WebRTC
 * WebSockets
 * Docker
 * Wails
-*Javascript
-*HTML/CSS
+* Javascript
+* HTML/CSS
+* Python
 
 ## 🎯 Focus
 
