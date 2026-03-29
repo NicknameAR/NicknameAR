@@ -1,7 +1,6 @@
 # Hi, I'm a Real-Time Systems Developer
 
-I build real-time systems using Go and WebRTC.
-Focused on low-latency streaming, networking, and backend architecture.
+I build low-latency real-time systems using Go and WebRTC. Focused on peer-to-peer architectures, streaming, and backend engineering.
 
 ## 🚀 Featured Projects
 
