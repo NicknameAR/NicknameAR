@@ -1,4 +1,4 @@
-# Hi, I'm a Fullstack Developer
+# Hi, I'm a Real-Time Systems Developer
 
 I build real-time systems using Go and WebRTC.
 Focused on low-latency streaming, networking, and backend architecture.
