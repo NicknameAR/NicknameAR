@@ -1,9 +1,22 @@
 # Hi, I'm a Fullstack Developer
 
-I build real-world applications with Go, WebRTC and React.
-Focused on networking, real-time systems and backend development.
+I build real-time systems using Go and WebRTC.
+Focused on low-latency streaming, networking, and backend architecture.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### StreamSrv — Real-Time WebRTC Streaming Platform
+
+Low-latency streaming platform with peer-to-peer architecture (no media relay).
+
+• WebRTC (P2P media streaming)  
+• Go backend (WebSocket signaling, JWT auth)  
+• Multi-viewer architecture (1 → N)  
+• Adaptive quality (ABR based on network conditions)  
+• Real-time chat + latency monitoring  
+• Camera overlay (PiP)  
+
+👉 https://github.com/NicknameAR/streamsrv
 
 ### 🔹 P2P File Drop
 
@@ -29,11 +42,12 @@ Real-time peer-to-peer file sharing app
 *Javascript
 *HTML/CSS
 
-## 🎯 Goals
+## 🎯 Focus
 
-* Become a strong backend / fullstack developer
-* Build production-level systems
-* Work with real-time and network-heavy applications
+- Real-time systems  
+- Low-latency networking  
+- Scalable backend architecture  
+- WebRTC internals 
 
 ## 📫 Contact
 
